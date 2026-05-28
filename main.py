@@ -1,4 +1,4 @@
-print("Olá turma do Python!")
+print("Olá Formador Carlos!")
 print("Tudo bem!")
 nome: str = input("Qual é o seu nome? ")
 print(f"Olá, {nome}!")
